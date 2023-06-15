@@ -1,1 +1,1 @@
-console.log("lumpa")
+console.log("wghyj")
