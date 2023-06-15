@@ -1,1 +1,1 @@
-console.log("ggetx")
+console.log("lumpa")
